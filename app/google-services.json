@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601521988401",
+    "project_id": "analizarapps",
+    "storage_bucket": "analizarapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601521988401:android:14dc89067273a807530610",
+        "android_client_info": {
+          "package_name": "es.adri.generadorwallpapersjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAocKXwLukk4cn9Q3UwZI9yf2AA5C0uB0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
